@@ -8,7 +8,7 @@ const config = {
   name: "Apexa",
   //BotName
   inviteLink:
-    "https://dsc.gg/apexaredirect_uri=https://docs.markos.ga&response_type=code",
+    "https://dsc.gg/apexa",
   //BotInvite Link
   Features: [
     {
