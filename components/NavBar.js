@@ -99,6 +99,12 @@ const NavBar = () => {
                 <hr className="translate-x-full opacity-0 group-hover:opacity-100 easeIn group-hover:translate-x-0 mt-2 border-[1px] rounded-sm border-main bg-main" />
               </h3>
             </a>
+         <a href="https://dsc.gg/apexa-support">
+              <h3 className="hover:cursor-pointer  easeIn group w-fit">
+                Support
+                <hr className="translate-x-full opacity-0 group-hover:opacity-100 easeIn group-hover:translate-x-0 mt-2 border-[1px] rounded-sm border-main bg-main" />
+              </h3>
+            </a>
           </div>
         </div>
       </div>
