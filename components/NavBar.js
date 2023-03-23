@@ -87,6 +87,22 @@ const NavBar = () => {
                 <hr className="translate-x-full opacity-0 group-hover:opacity-100 easeIn group-hover:translate-x-0 mt-2 border-[1px] rounded-sm border-main bg-main" />
               </h3>
             </a>
+       <div className="bg-dark  easeIn  p-3 rounded-b-lg z-50 border-dark border-2 outline-none">
+          <div className="text-gray-200  min-w-[10rem] mb-1  text-base md:text-lg lg:text-2xl xl:text-3xl font-medium flex flex-col sm:hidden">
+            <a href="https://apexatos.netlify.app">
+              <h3 className="hover:cursor-pointer  easeIn group w-fit">
+                Terms Of Service
+                <hr className="translate-x-full opacity-0 group-hover:opacity-100 easeIn group-hover:translate-x-0 mt-2 border-[1px] rounded-sm border-main bg-main" />
+              </h3>
+            </a>
+       <div className="bg-dark  easeIn  p-3 rounded-b-lg z-50 border-dark border-2 outline-none">
+          <div className="text-gray-200  min-w-[10rem] mb-1  text-base md:text-lg lg:text-2xl xl:text-3xl font-medium flex flex-col sm:hidden">
+            <a href="https://apexatos.netlify.app">
+              <h3 className="hover:cursor-pointer  easeIn group w-fit">
+                Privacy Policy
+                <hr className="translate-x-full opacity-0 group-hover:opacity-100 easeIn group-hover:translate-x-0 mt-2 border-[1px] rounded-sm border-main bg-main" />
+              </h3>
+            </a>
           </div>
         </div>
       </div>
