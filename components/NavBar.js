@@ -44,6 +44,18 @@ const NavBar = () => {
                 <hr className="translate-x-full opacity-0 group-hover:opacity-100 easeIn group-hover:translate-x-0 mt-2 border-[1px] rounded-sm border-main bg-main" />
               </h3>
             </a>
+        <a href="https://apexatos.netlify.app">
+              <h3 className="hover:cursor-pointer group">
+                Terms Of Service
+                <hr className="translate-x-full opacity-0 group-hover:opacity-100 easeIn group-hover:translate-x-0 mt-2 border-[1px] rounded-sm border-main bg-main" />
+              </h3>
+            </a>
+         <a href="https://apexa-site.netlify.app">
+              <h3 className="hover:cursor-pointer group">
+                Privacy Policy
+                <hr className="translate-x-full opacity-0 group-hover:opacity-100 easeIn group-hover:translate-x-0 mt-2 border-[1px] rounded-sm border-main bg-main" />
+              </h3>
+            </a>
           </div>
           <div className="group flex items-center hover:cursor-pointer">
             <div className="text-main border-2 border-gray-100 p-1 sm:p-2 xl:p-3 rounded-lg group-hover:border-main group-hover:-skew-x-6 easeIn">
