@@ -24,9 +24,9 @@ const config = {
       logo: <SiProbot className="h-10 w-10" />,
     },
     {
-      name: "Automation",
+      name: "Utility",
       description:
-        "Automation describes a wide range of technologies that reduce  human intervention in processes.",
+        "Apexa has all basic utility commands which your server need.",
       logo: <TbMessage2Code className="h-10 w-10" />,
     },
     {
@@ -38,10 +38,10 @@ const config = {
     // You can added more features if need add
   ],
   //Bot Features
-  serverCount: 50, //-  - Your
-  memberCount: 1000, //--   - Bot
+  serverCount: 100+, //-  - Your
+  memberCount: 150k+, //--   - Bot
   executedCommand: 27000, //--  - Stats
-  availableCommand: 153, //---   - Here
+  availableCommand: 100+, //---   - Here
   //Do not change if you don't know about them
   faceBookLogo: (
     <BsFacebook className="h-10 w-10 text-[#4267B2] hover:scale-125 easeIn cursor-pointer" />
@@ -59,7 +59,7 @@ const config = {
   mediumLink: "https://medium.com/",
   facebookLink: "https://facebook.com",
   discordLink: "https://dsc.gg/apexa-support",
-  youtubeLink: "https://www.youtube.com/channel/ABHISHEKSPOT",
+  youtubeLink: "https://www.youtube.com/c/ABHISHEKSPOT",
 };
 
 export default config;
